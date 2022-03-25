@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW15_2_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="search">Search</string>
+    <string name="id">id :</string>
+    <string name="hobbies">hobbies :</string>
+    <string name="national_code">national code :</string>
+    <string name="last_name_2">last_name :</string>
+    <string name="first_name_2">first_name :</string>
+</resources>
